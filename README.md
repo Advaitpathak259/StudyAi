@@ -1,6 +1,6 @@
-# Lumina Learning AI
+# StudyAI
 
-Lumina Learning AI is a Full-Stack MERN application that transforms static PDFs into interactive learning environments. Using Google Gemini 1.5, the app provides context-aware AI chat, automated quiz generation, and interactive flashcards.
+It Full-Stack MERN application that transforms static PDFs into interactive learning environments. Using Google Gemini 1.5, the app provides context-aware AI chat, automated quiz generation, and interactive flashcards.
 
 ## Features
 
